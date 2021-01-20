@@ -9,4 +9,8 @@ namespace RepoSDeneme2
     public class Halim
     {
     }
+    public int topla ( int a,int b)
+    {
+        return a + b;
+    }
 }
