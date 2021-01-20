@@ -15,6 +15,10 @@ namespace RepoSDeneme2
         public Form1()
         {
             InitializeComponent();
+            Halim hlm = new Halim();
+            Serdar srd = new Serdar();
+
+
         }
     }
 }
